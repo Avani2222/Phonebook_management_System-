@@ -3,7 +3,7 @@
 #include<conio.h>
 #include<stdio.h>
 using namespace std;
-int menue();
+void menue();
 int Add_Num();
 int Show_Records();
 int Search_with_serial_number();
